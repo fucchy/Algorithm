@@ -14,7 +14,7 @@ int main(int argc,char *argv[]){
 }
 
 // isPrime()関数
-// 仮引数xに対して、xが素数ならtrue、合成数ならfalseを返す
+// 仮引数xが、素数ならtrue、合成数ならfalseを返す
 bool isPrime(int x){
   if(x<2){
     return false;
