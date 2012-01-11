@@ -1,6 +1,7 @@
 /*
  * caution:
  * 日本語の文字化けが発生しています。
+ * 北斗
  *
  */
 #include<stdio.h>
