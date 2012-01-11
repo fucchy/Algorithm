@@ -1,3 +1,8 @@
+/*
+ * caution:
+ * 日本語の文字化けが発生しています。
+ *
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
